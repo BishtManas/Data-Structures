@@ -91,8 +91,8 @@ Want to add more data structures or improve explanations?
 ## 📚 Resources
 
 * [GeeksforGeeks](https://www.geeksforgeeks.org/data-structures/)
-* [LeetCode](https://leetcode.com/)
-* [Hackerrank](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
+* [W3Schools](https://www.w3schools.com/dsa/)
+* [Tutorialspoint](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
 
 ---
 
