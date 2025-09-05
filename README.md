@@ -14,11 +14,10 @@ This repo is your one-stop place to learn, practice, and master the most importa
 
 1. 🔹 [Introduction](#-introduction)
 2. 🔹 [Topics Covered](#-topics-covered)
-3. 🔹 [How to Use This Repo](#-how-to-use-this-repo)
-4. 🔹 [Folder Structure](#-folder-structure)
-5. 🔹 [Contributing](#-contributing)
-6. 🔹 [Resources](#-resources)
-7. 🔹 [Star this Repo 🌟](#-star-this-repo-)
+3. 🔹 [Folder Structure](#-folder-structure)
+4. 🔹 [Contributing](#-contributing)
+5. 🔹 [Resources](#-resources)
+6. 🔹 [Star this Repo 🌟](#-star-this-repo-)
 
 ---
 
@@ -96,7 +95,7 @@ Want to add more data structures or improve explanations?
 
 ---
 
-## ⭐ Star this Repo
+## Star this Repo
 
 If you find this repository helpful, don’t forget to **star ⭐ the repo**.
 It motivates me to keep adding more cool stuff 🚀
