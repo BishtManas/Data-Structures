@@ -17,7 +17,7 @@ This repo is your one-stop place to learn, practice, and master the most importa
 3. 🔹 [Folder Structure](#-folder-structure)
 4. 🔹 [Contributing](#-contributing)
 5. 🔹 [Resources](#-resources)
-6. 🔹 [Star this Repo 🌟](#-star-this-repo)
+6. 🔹 [Star this Repo ](#-star-this-repo)
 
 ---
 
