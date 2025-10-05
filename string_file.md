@@ -190,5 +190,3 @@ Rolling hash in **Rabin-Karp Algorithm** helps compare substrings efficiently.
 | Applications       | Everywhere in text-based processing                   |
 
 ---
-
-Would you like me to give you **short Python code examples** for all these operations (like reverse, palindrome, substring search, etc.) in a clean notebook-style format (so you can use it in VS Code or LeetCode)?
