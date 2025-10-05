@@ -101,5 +101,3 @@ If you find this repository helpful, don’t forget to **star ⭐ the repo**.
 It motivates me to keep adding more cool stuff 🚀
 
 ---
-
-🔥 With this repo, you’ll go from **zero ➝ hero in Data Structures**.
