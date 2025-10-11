@@ -89,7 +89,7 @@ Want to add more data structures or improve explanations?
 
 ## 📚 Resources
 
-* [GeeksforGeeks](https://chatgpt.com/c/68ea1403-7f70-8320-b019-88330f79ab8c))
+* [GeeksforGeeks](https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/)
 * [W3Schools](https://www.w3schools.com/dsa/)
 * [Tutorialspoint](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
 
