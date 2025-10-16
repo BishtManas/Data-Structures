@@ -45,6 +45,29 @@ Binary trees are widely used in **searching, sorting, and hierarchical data stor
 
 ---
 
+
+# Binary Tree — Applications, Advantages, and Disadvantages
+
+---
+
+## *Applications of Binary Tree*
+
+* **Expression Trees** – Represent algebraic expressions.  
+* **Binary Search Tree (BST)** – Fast searching, insertion, deletion.  
+* **Heaps** – Used in priority queues.  
+* **Huffman Encoding Trees** – Compression algorithms.  
+* **Hierarchical data storage** – File systems, organizational charts.  
+
+---
+
+## *Advantages of Binary Tree*
+
+* Efficient searching and sorting when structured as BST.  
+* Flexible memory allocation.  
+* Provides hierarchical data representation.  
+
+---
+
 ## *Implementation of Binary Tree in C++*
 
 ```cpp
@@ -102,30 +125,7 @@ int main() {
     postorder(root);
 
     return 0;
-}```
-
-# Binary Tree — Applications, Advantages, and Disadvantages
-
----
-
-## *Applications of Binary Tree*
-
-* **Expression Trees** – Represent algebraic expressions.  
-* **Binary Search Tree (BST)** – Fast searching, insertion, deletion.  
-* **Heaps** – Used in priority queues.  
-* **Huffman Encoding Trees** – Compression algorithms.  
-* **Hierarchical data storage** – File systems, organizational charts.  
-
----
-
-## *Advantages of Binary Tree*
-
-* Efficient searching and sorting when structured as BST.  
-* Flexible memory allocation.  
-* Provides hierarchical data representation.  
-
----
-
+}
 ## *Disadvantages of Binary Tree*
 
 * Wastage of memory if tree is sparse.  
