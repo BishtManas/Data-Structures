@@ -68,6 +68,15 @@ Binary trees are widely used in **searching, sorting, and hierarchical data stor
 
 ---
 
+
+## *Disadvantages of Binary Tree*
+
+* Wastage of memory if tree is sparse.  
+* Traversal can be recursive and memory-intensive.  
+* Not cache-friendly like arrays.
+
+---
+
 ## *Implementation of Binary Tree in C++*
 
 ```cpp
@@ -125,9 +134,4 @@ int main() {
     postorder(root);
 
     return 0;
-}
-## *Disadvantages of Binary Tree*
-
-* Wastage of memory if tree is sparse.  
-* Traversal can be recursive and memory-intensive.  
-* Not cache-friendly like arrays.  
+} 
